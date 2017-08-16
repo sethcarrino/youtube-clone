@@ -1,6 +1,6 @@
 # YouTube Clone
 
-First project using React. Created a YouTube Clone with YouTube's API and React.
+First project using React. Created a YouTube Clone with YouTube's API and React. Learned from Stephen Grider's class on Udemy
 
 ### Getting Started
 
